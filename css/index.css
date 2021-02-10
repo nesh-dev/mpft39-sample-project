@@ -1,0 +1,28 @@
+/* h1 { 
+color: blue; 
+text-align: center;
+} */
+
+/* body {
+    background-color: rgb(37, 44, 44);
+    color: white;
+} */
+
+/* p { 
+    color: gray;
+    font-size: 30px;
+} */
+
+
+.first-paragraph  h1 { 
+    color: green;
+}
+
+.second-paragraph { 
+    color: yellow;
+}
+
+#content {
+    color: teal;
+}
+
